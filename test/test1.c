@@ -1,6 +1,5 @@
 
 /*cccp generate
-	-- Create a sine LUT of length 1000.
 	return '\n\tputs("Hello, world!");\n'
 */
 
